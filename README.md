@@ -1,7 +1,7 @@
 # NLP_Projects
 
-# Ritvik_Regulapati_Portfolio
+# Portfolio
 This is a test portfolio
 
-# Overview of NLP
-You can see an [overview of NLP here](Overview of NLP.pdf)
+## Overview
+You can see an [overview of NLP here](Overview_of_NLP.pdf)

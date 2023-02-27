@@ -13,3 +13,6 @@ to input the id so that the matching record is returned. We also use the pickle 
 
 ## Assignment 2
 You can see [assignment 2](Assignment2_rrr180003) here.
+
+## Assignment 3
+You can see [assignment 3](Assignment3_rrr180003) here.

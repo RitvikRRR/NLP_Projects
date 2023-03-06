@@ -21,4 +21,4 @@ You can see [assignment 3](Assignment3_rrr180003) here.
 You can see [assignment 4](Assignment4_rrr180003) here.
 
 ## Sentence Parsing
-You can see the sentence parsing assignment [here](Sentence Parsing Assignment.pdf)
+You can see the sentence parsing assignment [here](Sentence_Parsing_Assignment.pdf)

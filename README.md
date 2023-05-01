@@ -31,3 +31,5 @@ You can see [assignment 6](TextClassification.pdf) here. This is the Text Classi
 ## Assignment 7
 You can see the [ACL Paper Summary](ACL_Paper_Summary.docx) here.
 
+## Assignment 8
+You can see the [ChatBot](ChatBot) here.

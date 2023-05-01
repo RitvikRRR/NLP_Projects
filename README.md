@@ -17,7 +17,10 @@ You can see [assignment 2](Assignment2_rrr180003) here. This is the Word Guessin
 You can see [assignment 3](Assignment3_rrr180003) here. This is the WordNet assignment.
 
 ## Assignment 4
-You can see [assignment 4](Assignment4_rrr180003) here. This is the N Gram Language Model Assignment
+You can see [assignment 4](Assignment4_rrr180003) here. This is the N Gram Language Model Assignment.
+
+## Assignment 5
+You can see [assignment 5](Assignment5_rrr180003) here. This is the Web Crawler assignment.
 
 ## Sentence Parsing
-You can see the sentence parsing assignment [here](Sentence_Parsing_Assignment.pdf). This is the Web Crawler assignment.
+You can see the sentence parsing assignment [here](Sentence_Parsing_Assignment.pdf). 

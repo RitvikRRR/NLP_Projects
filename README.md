@@ -29,5 +29,5 @@ You can see the sentence parsing assignment [here](Sentence_Parsing_Assignment.p
 You can see [assignment 6](TextClassification.pdf) here. This is the Text Classification 1 assignment.
 
 ## Assignment 6
-You can see the [ACL Paper Summary](ACL Paper Summary.docx) here.
+You can see the [ACL Paper Summary](ACL_Paper_Summary.docx) here.
 

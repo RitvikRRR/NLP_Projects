@@ -33,3 +33,6 @@ You can see the [ACL Paper Summary](ACL_Paper_Summary.docx) here.
 
 ## Assignment 8
 You can see the [ChatBot](ChatBot) here.
+
+## Assignment 9
+You can see [assignment 9](TextClassification.pdf) here. This is the Text Classification 2 assignment.

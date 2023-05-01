@@ -26,4 +26,4 @@ You can see [assignment 5](Assignment5_rrr180003) here. This is the Web Crawler 
 You can see the sentence parsing assignment [here](Sentence_Parsing_Assignment.pdf). 
 
 ## Assignment 6
-You can see [assignment_6] here. This is the Text Classification 1 assignment.
+You can see [assignment_6](TextClassification.pdf) here. This is the Text Classification 1 assignment.
